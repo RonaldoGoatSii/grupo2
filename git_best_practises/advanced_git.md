@@ -5,7 +5,7 @@
 
 ## Git Rebase
 
-### The Concept (What & Why)
+### The Concept 
 
 At its core, `git rebase` is an operation to integrate changes from one branch onto another. It serves the same purpose as `git merge`, but the philosophy and the result are completely different.
 
