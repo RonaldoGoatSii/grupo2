@@ -73,7 +73,7 @@ git rebase -i HEAD~4
 
 # 3. Create the new message (Action inside the editor)
 # Git will open the editor again. Write one final message for the combined commit.
-
+```
 
 ## Git Cherry-pick
 
